@@ -1,13 +1,20 @@
-# shopping-cart
+# Computer shop
 
 ## Project setup
 ```
 npm install
 ```
 
+```
+yarn
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+```
+```
+yarn serve
 ```
 
 ### Compiles and minifies for production
@@ -22,6 +29,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# binh_computershop
-# binh_computershop
-# binh_computershop
